@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@hj19981219 
-hj19981219
-/
-My-Actions
-Public
-forked from zhonghuaifang/My-Actions
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-腾讯视频签到 腾讯视频签到 #1
-Summary
-Workflow file
-Jobs
-build
-Workflow file for this run
-.github/workflows/v_video.yaml at 8aab281
 name: 腾讯视频签到
 
 on:
@@ -73,4 +45,3 @@ jobs:
           GOBOT_QQ: ${{ secrets.GOBOT_QQ }}
           GOBOT_TOKEN: ${{ secrets.GOBOT_TOKEN}}
           OS_TZ: ${{ secrets.OS_TZ }}
-#最后推送 2021年4月09日
